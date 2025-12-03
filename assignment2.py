@@ -10,7 +10,7 @@ import spacy
 nlp = spacy.load("en_core_web_md")
 
 # Chapters 1-3 from Fyodor Dostoyevsky's "Crime And Punishment"
-text = open("../CrimeAndPunishment").read()
+text = open("../week4/CrimeAndPunishment").read()
 doc = nlp(text)
 
 all_words = [t for t in doc if t.is_alpha]
