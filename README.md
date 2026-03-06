@@ -1,5 +1,5 @@
 # FromNLPToChatbot
-This repository contains my final project for our course "As We May Speak: From NLP to Chatbot". In the course we have looked at different forms of natural language processing prior to the popularization of Large Language Models. The project at hand was made using some of the techniques learned in the course. 
+This repository contains my final project (as well as some in-class assignments) for our course "As We May Speak: From NLP to Chatbot". In the course we have looked at different forms of natural language processing prior to the popularization of Large Language Models. The project at hand was made using some of the techniques learned in the course. 
 
 ## 1. The Concept
 
